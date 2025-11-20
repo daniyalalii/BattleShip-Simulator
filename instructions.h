@@ -14,7 +14,6 @@ void viewInstructions(){
     cout<<"4. Sink all enemy ships to win"<<endl;
     cout<<"5. Your score is based on accuracy and speed"<<endl;
     cout<<"-------------------------------------"<<endl;
-    cout<<"(Press any key to return to MAIN MENU...)"<<endl;
 }
 
 #endif
